@@ -1,2 +1,2 @@
-# BVM-Biblioth-que-Virtuelle-de-M-dine-
+# BVM-Bibliotheque-Virtuelle-de-Medine-
 BVM, le livre à proximité
